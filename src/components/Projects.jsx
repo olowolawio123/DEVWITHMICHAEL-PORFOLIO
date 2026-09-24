@@ -41,7 +41,7 @@ const projects = [
   tech: ["React", "Node.js", "Firebase", "Paystack"],
   image: vtuImage,
   category: "Web App",
-  link: "https://vtu-website-eight.vercel.app/",
+  link: "https://real-vtu-website-1key-react-app-api-url.onrender.com/",
 },
   {
     title: "CCC Christ Tabernacle Website",
