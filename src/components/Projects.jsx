@@ -4,9 +4,8 @@ import movieImage from "../assets/projects/movie-streaming.png";
 import ecommerceImage from "../assets/projects/ecommerce.png";
 import churchImage from "../assets/projects/church.png";
 import ayankeshImage from "../assets/projects/ayankesh.png";
-import vendoraImage from "../assets/projects/vendora.png";
-import vtuImage from "../assets/projects/vtu.png";
-
+import vendoraImage from "../assets/projects/vendora.PNG";
+import vtuImage from "../assets/projects/vtu.PNG";
 const projects = [
   {
     title: "Vendora Marketplace",
